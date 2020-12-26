@@ -1,16 +1,17 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=SEOLAH%20CHLOE&fontSize=90)
+<h3 align="center"> 👾 Tech Stack 👾</h3>
 
-<!--
-**seolahchloe/seolahchloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> Techs that I've used at least once </p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Intelli J Idea-CC0066?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<h3 align="center"> 🔮 Me 🔮
+
+<p align="center">
+<a href="instagram.com/codebychloe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp <a href="seolahchloe.chung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp <a href="seolahchloe.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=flat-square&logo=githubsponsers&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp
