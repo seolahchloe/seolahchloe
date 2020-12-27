@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=350&section=header&text=SEOLAH%20CHLOE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=300&section=header&text=SEOLAH%20CHLOE&fontSize=90)
 
 <h3 align="center"> 🔮🌷💎✨🎪🎠 </h3>
 
