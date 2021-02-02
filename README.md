@@ -7,7 +7,7 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Intelli J Idea-CC0066?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/2C2255?style=flat-square&logo=simpleiconseclipseide&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Intelli J Idea-CC0066?style=flat-square&logo=intellijidea&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp  <img src="https://img.shields.io/badge/2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp 
 
 
 
