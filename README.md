@@ -2,7 +2,7 @@
 
 <h3 align="center"> 🔮🌷💎✨🎪🎠 
   <br>
-  <br>
+
   
  <p style="font-family: 'Raleway', sans-serif;", align="center">
 
@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
  
 
-
-
 <h3 align="center"> 🔮 Me 🔮</h3>
 
 
@@ -34,3 +32,10 @@
   <a href="https://www.instagram.com/codebychloe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
   <a href="seolahchloe.chung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp 
   <a href="https://seolahchloe.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=flat-square&logo=githubsponsers&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp
+
+  <br>
+  <br>
+
+[![SEOLAH's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SEOLAH&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEOLAH&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=c6b8ff&height=150)
