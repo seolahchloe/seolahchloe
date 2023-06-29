@@ -36,6 +36,6 @@
   <br>
   <br>
 
-[![SEOLAH's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SEOLAH&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEOLAH&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
+[![SEOLAH's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seolahchloe&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/seolahchloe/github-readme-stats-sigma-five)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seolahchloe&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/seolahchloe/github-readme-stats-sigma-five)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=c6b8ff&height=150)
