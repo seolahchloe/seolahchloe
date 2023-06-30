@@ -45,8 +45,8 @@
 <!--
 [![SEOLAH's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=seolahchloe&line_height=20&count_private=true&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/seolahchloe/github-readme-stats-sigma-five)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seolahchloe&layout=compact&bg_color=30,92a8d1,9c77e0&title_color=fff&text_color=fff)](https://github.com/seolahchloe/github-readme-stats-sigma-five)-->
 
-<a href="https://github.com/seolahchloe"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=seolahchloe&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Seolah's github stats" /></a>
-<a href="https://github.com/seolahchloe"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolahchloe&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&fontSize=90" /></a> 
+<a href="https://github.com/seolahchloe"><img align="center" style="height:169px" src="https://github-readme-stats.vercel.app/api?username=seolahchloe&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Seolah's github stats" /></a>
+<a href="https://github.com/seolahchloe"><img align="center" style="height:169px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seolahchloe&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&animation&height=150)
