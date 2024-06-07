@@ -3,7 +3,7 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20SeolahChung%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<h3 align="center"> 🔮🌷💎✨🎪🎠 
+<h3 align="center"> 
   <br>
 
   
@@ -36,7 +36,7 @@
 
 
 <p align="center">
-  <a href="https://www.instagram.com/codebychloe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
+ <!-- <a href="https://www.instagram.com/codebychloe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp -->
   <a href="seolahchloe.chung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic-square&logo=gmail&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp 
   <a href="https://seolahchloe.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=plastic-square&logo=tistory&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp
 
